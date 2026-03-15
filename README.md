@@ -1,7 +1,7 @@
 # 🧠 Multimodal RAG CLI
 
 Idioma do README (README's language):
-- [Português](https://github.com/louuispy/multimodal-rag-cli-gt/README.md)
+- [Português](https://github.com/louuispy/multimodal-rag-cli-gt/blob/main/README.md)
 - [English]()
 
 ---
