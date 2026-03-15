@@ -2,7 +2,7 @@
 
 README's language:
 - [Portuguese](https://github.com/louuispy/multimodal-rag-cli-gt/blob/main/README.md)
-- [English]()
+- [English](https://github.com/louuispy/multimodal-rag-cli-gt/blob/main/README-en.md)
 
 ---
 
